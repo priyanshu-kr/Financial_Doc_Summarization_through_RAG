@@ -1,7 +1,5 @@
 # Chatbot leveraging RAG for Financial Document (10Q, 10K) Summarization
 
-> Check other similar LLM projects at https://github.com/kHarshit/llm-projects.
-
 Chatbot leveraging Retrieval Augmented Generation (RAG) for Financial Document Summarization
 
 ![](./assets/rag_chatbot_10q.png)
@@ -72,10 +70,3 @@ python index.py
 * Gemma 1.1: [rag_gemma1.ipynb](./rag_gemma1.ipynb)
 * GPT-3.5: [pages/chatbot/chatbot_model.py](./pages/chatbot/chatbot_model.py)
 * Evaluation: [eval.py](./eval.py)
-
-
-# Contributors
-
-| Contributor 1 | Contributor 2 | Contributor 3 |
-| ------------- | ------------- | ------------- |
-| [Harshit Kumar](https://github.com/kHarshit) | [Sarthak Khandelwal](https://github.com/sarthakforwet) | Alexander Leon |
